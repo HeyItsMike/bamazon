@@ -12,6 +12,9 @@ Make sure you save and require the MySQL and Inquirer npm packages in your homew
 Steps taken and obstacles encountered:
 Created MySQL database with proper tables and mock inventory.
 
+npm install was used before creation of everything else to download neccessary node modules.
+
+
 --------Code used in MySQL database--------------------
 CREATE DATABASE Bamazon;
 USE Bamazon;
